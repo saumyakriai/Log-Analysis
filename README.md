@@ -21,7 +21,7 @@ This project implements a hybrid log classification system, combining three comp
    - Used for handling complex patterns when sufficient labeled training data is not available.
    - Provides a fallback or complementary approach to the other methods.
 
-![architecture](resources/arch.png)
+![plot] ("C:\Users\Saumya Kumari\Documents\Pro\Log Analysis\project-nlp-log-classification\resources\arch.png")
 
 ---
 
